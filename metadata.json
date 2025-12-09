@@ -1,0 +1,7 @@
+{
+  "name": "Lumière de Noël",
+  "description": "A high-performance, dreamscape 3D Christmas tree experience with luxury aesthetics, featuring soft mint tones, rose gold accents, and interactive fairy dust lighting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
